@@ -49,7 +49,7 @@ function loco() {
       opacity:0
     })
     gsap.to("#page1>h1", {
-    transform: "translateX(-700%)",
+    transform: "translateX(-600%)",
     fontWeight: "800",
     color:"red",
     webkitTextStrokeColor: "green",
